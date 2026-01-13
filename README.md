@@ -18,7 +18,7 @@ Fig. 3. Visual segmentation results of CFG framework using different labeled rat
 <p align='center'>
     <img src="figures/Fig4.png" width="94%" height="94%">
 </p>
-Fig. 4. Visual comparison results from four domains. $\textcolor{green}{Green}$ represents the segmentation results and $\textcolor{red}{red}$ represents the labels.
+Fig. 4. Visual comparison results from four domains. $\textcolor{green}{Green}$ represents the segmentation results and <span style="color: red;">red</span> represents the labels.
 
 ## Requirements
 
