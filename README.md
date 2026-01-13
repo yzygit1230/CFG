@@ -6,7 +6,7 @@
     <img src="figures/Fig1.png" width="95%" height="95%">
 </p>
 
-Fig. 1. Overview of the proposed pipeline. (a) Flow diagram of cell sample preparation and analysis. Scale bar: 10 µm. (b) Flow diagram of the frequency vision** Mamba.**
+Fig. 1. (A) Overview of the CFG framework. IDG bidirectionally combines labeled and unlabeled samples to generate intermediate domain samples. Best viewed in color. (B) Overview of the IDG. Cut denotes dividing the sample into foreground and background based on $M_{IDG}$, while \textbf{Mix} involves merging the two parts into an intermediate sample. (C) Overview of the Swin MAE.
 
 ## Experimental Results
 
