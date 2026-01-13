@@ -6,7 +6,7 @@
     <img src="figures/Fig1.png" width="95%" height="95%">
 </p>
 
-Fig. 1. (A) Overview of the CFG framework. IDG bidirectionally combines labeled and unlabeled samples to generate intermediate domain samples. Best viewed in color. (B) Overview of the IDG. Cut denotes dividing the sample into foreground and background based on M~IDG, while Mix involves merging the two parts into an intermediate sample. (C) Overview of the Swin MAE.
+Fig. 1. (A) Overview of the CFG framework. IDG bidirectionally combines labeled and unlabeled samples to generate intermediate domain samples. Best viewed in color. (B) Overview of the IDG. Cut denotes dividing the sample into foreground and background based on M<sub>IDG</sub>, while Mix involves merging the two parts into an intermediate sample. (C) Overview of the Swin MAE.
 
 ## Experimental Results
 
