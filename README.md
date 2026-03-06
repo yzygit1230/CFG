@@ -1,5 +1,9 @@
 # Rethinking Multi-center Semi-supervised Breast Cancer Ultrasound Image Segmentation: An Intermediate-domain Perspective
 
+⭐ This code has been completely released ⭐ 
+
+[Paper Link](https://ieeexplore.ieee.org/abstract/document/11411937) 
+
 ## Overview
 
 <p align='center'>
