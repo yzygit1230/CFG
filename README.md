@@ -51,3 +51,17 @@ python test.py --dataset
 ```
 python code/visualization.py
 ```
+
+## Citation
+
+If you find the code helpful in your research or work, please cite the following paper:
+
+```
+@article{ye2026cfg,
+  title={Rethinking Multi-center Semi-supervised Breast Cancer Ultrasound Image Segmentation: An Intermediate-domain Perspective},
+  author={Ye, Zhaoyi and Zhang, Yimin and Huang, Jin and Wang, Du and Liu, Sheng and Mei, Liye and Lei, Cheng},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  year={2026},
+  publisher={IEEE}
+}
+```
